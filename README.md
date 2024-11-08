@@ -23,7 +23,7 @@ Finder Suggested is a custom element designed for YooTheme Pro Builder, allowing
 
 - download and unzip the element package
 - create a [Child Theme](https://yootheme.com/support/yootheme-pro/joomla/developers-child-themes) in your YOOtheme Pro installation and activate the child theme
-- copy the complete folder `jiga-shopify-collect` and  `jiga-shopify-collect_item` into the directory `/templates/yootheme_child/builder/` (Joomla!)
+- copy the complete folder `finder-suggested` into the directory `/templates/yootheme_child/builder/` (Joomla!)
 
 ### Setup Data Source:
 
